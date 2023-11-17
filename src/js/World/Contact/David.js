@@ -1,7 +1,7 @@
 import * as THREE from 'three'
 import Experience from '../../Experience'
 
-export default class David {
+export default class Stefan {
     constructor() {
         this.experience = new Experience()
         this.resources = this.experience.resources

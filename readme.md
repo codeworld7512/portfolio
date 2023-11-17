@@ -1,5 +1,4 @@
 # Portfolio 2022
-[Live](https://david-hckh.com/)
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).

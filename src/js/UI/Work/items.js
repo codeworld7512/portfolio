@@ -6,7 +6,7 @@ export default [
     image: "images/projects/join.jpg",
     tags: ["javascript", "backend", "html", "css"],
     liveview: "https://join.david-hckh.com/",
-    github: "https://github.com/davidhckh/join",
+    github: "https://github.com/codeworld7512/join",
     alt: "Group management tool to optimize workflows portfolio project",
   },
   {
@@ -16,7 +16,7 @@ export default [
     image: "images/projects/pokedex.jpg",
     tags: ["javascript", "api", "html", "css"],
     liveview: "https://js-pokedex-virid.vercel.app/",
-    github: "https://github.com/davidhckh/pokedex",
+    github: "https://github.com/codeworld7512/pokedex",
     alt: "pokedex design detailed design portfolio project",
   },
   {
@@ -26,7 +26,7 @@ export default [
     image: "images/projects/sharkie.jpg",
     tags: ["javascript", "html", "css"],
     liveview: "https://sharkie-game.vercel.app/",
-    github: "https://github.com/davidhckh/sharkie-game",
+    github: "https://github.com/codeworld7512/sharkie-game",
     alt: "javascript based jump-and-run game portfolio project",
   },
   {
@@ -36,11 +36,11 @@ export default [
     image: "images/projects/portfolio.jpg",
     tags: ["webgl", "javascript", "html", "css"],
     twitter: "https://twitter.com/DavidHckh",
-    alt: "david heckhoff portfolio project 2022 threejs blender 3d design",
+    alt: "stefan naumoski portfolio project 2022 threejs blender 3d design",
     bannerIcons: [
       { src: "images/cssda-icon.png", alt: "cssda icon site of the day" },
     ],
-    github: "https://github.com/davidhckh/portfolio-2022",
+    github: "https://github.com/codeworld7512/portfolio-2022",
   },
   {
     id: 4,
@@ -49,7 +49,7 @@ export default [
       "Play as Jelly and fight against three other Jellys in a multiplayer free-for-all game",
     image: "images/projects/jelly-battle.jpg",
     tags: ["webgl", "javascript", "socketio", "html", "css"],
-    twitter: "https://twitter.com/DavidHckh",
+    twitter: "https://twitter.com/Stefan",
     alt: "work in progress portfolio project jelly battle strategy game flash multiplayer",
   },
 ];
